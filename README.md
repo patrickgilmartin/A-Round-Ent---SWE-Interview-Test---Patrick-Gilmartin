@@ -13,12 +13,12 @@ Navigate to the project folder: cd StarterCode
 
 2. Install dependencies for both frontend and backend:
 
-For the backend:
+##For the backend:
 -cd backend
 -npm install
 -npm start
 
-For the frontend (open a new terminal window/tab):
+##For the frontend (open a new terminal window/tab):
 -cd frontend
 -npm install
 -npm start
