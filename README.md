@@ -5,7 +5,7 @@ This is a fullstack application with a React frontend and a Node.js backend that
 ## Prerequisites
 - [Node.js](https://nodejs.org/)
 - npm
-- - CORS package for Node.js backend: `npm install cors`
+- CORS package for Node.js backend: `npm install cors`
 
 ## Installation and Running
 
